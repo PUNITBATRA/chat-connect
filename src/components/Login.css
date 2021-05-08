@@ -1,0 +1,13 @@
+.login-body {
+  height: 100vh;
+  margin-top: 0;
+  padding-top: 0;
+}
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  font-size: 24px;
+  font-weight: bolder;
+}
