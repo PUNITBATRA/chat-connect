@@ -15,11 +15,14 @@ export default ({ onReceive }) => {
   };
   return (
     <div className="login-body" style={{ textAlign: "center" }}>
-      <h1>Test Credentials if you want to test or Use your own ID </h1>
-      <h4>Mobile no.- 8094060272</h4>
-      <h5>PassWord-21061999</h5>
+      <h1>Test Credentials </h1>
+      <h4>Email- test_zjnqfkd_admin@tfbnw.net</h4>
+      <p>Password- test@123</p>
+
+      <h4>Email- zvngvjtfvd_1621887422@tfbnw.net</h4>
+      <p>Password- test@123</p>
       <p>
-        Current Feature- Chat Support,Login With FB,Emoji Support, Mic
+        Current Features- Chat Support,Login With FB,Emoji Support, Mic
         Support,New Connection Sidebar Support <br />
         <br /> Feature to be added in the upcoming versions- Login With Google
         soon.
